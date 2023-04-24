@@ -1,5 +1,0 @@
-pillow
-packaging
-ipywidgets
-fastai
-voila
